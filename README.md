@@ -40,7 +40,7 @@ This notebook includes:
 
 3. Run the notebook  
    ```bash
-   jupyter notebook
+   jupyter notebook NLP_Sentiment_Analysis.ipynb
    ```
 ## 📌 Note  
 Make sure you download the dataset manually from Kaggle and place it in the appropriate folder.
